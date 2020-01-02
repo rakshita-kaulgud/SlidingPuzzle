@@ -1,0 +1,3 @@
+To run the sliding puzzle solver run puzzlesolver.py file. This file will internally call ideal_solution.py, which contains the logic that implements A* algorithm to solve the puzzle. 
+
+graphics.py is the library file downloaded for graphical animation of the algorithm. This file is not written by me. But for this project to compile and run, this file has to be in the same folder as the puzzlesolver.py and ideal_solution.py.
